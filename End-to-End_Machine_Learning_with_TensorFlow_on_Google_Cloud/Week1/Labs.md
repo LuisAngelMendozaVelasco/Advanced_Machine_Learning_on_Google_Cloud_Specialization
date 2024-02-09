@@ -2,4 +2,4 @@
 
 ## Hands-on Lab 1
 
-- [Lab 1 : Exploring natality dataset](./Labs/1_explore.ipynb)
+- [Exploring natality dataset](./Labs/1_explore.ipynb)
