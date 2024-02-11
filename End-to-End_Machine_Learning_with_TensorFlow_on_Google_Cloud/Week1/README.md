@@ -50,7 +50,7 @@ This module explores a large dataset using Datalab and BigQuery.
 
 ## BigQuery and Datalab
 
-- [Video - BigQuery](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/home/week/1#:~:text=BigQuery%20and%20Datalab-,BigQuery,-Video%E2%80%A2)
+- [Video - BigQuery](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/W3gQf/bigquery)
 
 - [Reading - AI Platform Notebooks](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/supplement/875zO/ai-platform-notebooks)
 
@@ -62,7 +62,7 @@ This module explores a large dataset using Datalab and BigQuery.
 
 ## Hands-on Lab 1
 
-- [Video - Lab 1 Intro : Exploring the dataset](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/home/week/1#:~:text=Lab%201%20Intro%20%3A%20Exploring%20the%20dataset)
+- [Video - Lab 1 Intro : Exploring the dataset](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/xtWyO/lab-1-intro-exploring-the-dataset)
 
 - [Lab - Explore the dataset](./Labs/1_explore.ipynb)
 
