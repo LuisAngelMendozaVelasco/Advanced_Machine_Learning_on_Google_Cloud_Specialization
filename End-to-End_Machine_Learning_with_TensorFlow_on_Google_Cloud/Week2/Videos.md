@@ -2,13 +2,13 @@
 
 ## Creating a dataset
 
-- [Creating a dataset](https://d3c33hcgiwev3.cloudfront.net/uGQLpIbvEeianAr0yIdmDg.processed/full/720p/index.mp4?Expires=1707609600&Signature=QdawjGNqz7iwiSWNLb8sBacqPscMIw3P-alX6ofJcagYBPbqyPOUa89EWjGsuPav4QcpbyREhsLhCo9v7o56YIfjibk2nyFj1xnxQR4VzXn9MmVaI~qarw~Urcy2WzAtlnNUL8ZpvPYOpjKcgGl476-GE~HbIoC-uCT5G9QQfCM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Creating a dataset](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/cxSUI/creating-a-dataset)
 
 ## Hands-on Lab 2
 
-- [Lab 2 Intro : Create a sample dataset](https://d3c33hcgiwev3.cloudfront.net/uGL5kobvEeiEShL6YrwsWg.processed/full/720p/index.mp4?Expires=1707609600&Signature=lQhnbi0SXJBdfwN0wDeiv2oAdCDW5nIgfH3qE-RlOgq4ARZfR-NlopvZnJcgo99OsHC1sv3RdsYldROXyH9Z1cLPc3~SjJnLUECnTkuqHFKopY0KofcUQXF44vqNErf88AQsljM7CpsEHAUclPACflND-xL2S9NTT7SC9T66QvU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Lab 2 Intro : Create a sample dataset](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/ddaQx/lab-2-intro-create-a-sample-dataset)
 
-- [Lab 2: demo and review](https://d3c33hcgiwev3.cloudfront.net/GptZg82gEei9Vw42DiYp8g.processed/full/720p/index.mp4?Expires=1707609600&Signature=YHECS8DkcR2hRBr0rE0tm8s-u0kAzT1PyZAdWmXY976EZCX4H~KP9Fhz-mIPbQmy6LeyKx1NU6M~sQgEGXKz-oMH4DjMXvL7p3FXvvgg6GksHBLrPZcelCz0adb6MCpiV63S8ypiqrQ6VL-fwWp8Ds770NPRDQe95oKfdNfGJkk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Lab 2: demo and review](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/lKBlJ/lab-2-demo-and-review)
 
 ## Build the model
 
