@@ -58,7 +58,7 @@ This module explores a large dataset using Datalab and BigQuery.
 
 ## How to use Qwiklabs
 
-- [Getting Started with Google Cloud Platform and Qwiklabs](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/4Zi8R/getting-started-with-google-cloud-platform-and-qwiklabs)
+- [Video - Getting Started with Google Cloud Platform and Qwiklabs](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp/lecture/4Zi8R/getting-started-with-google-cloud-platform-and-qwiklabs)
 
 ## Hands-on Lab 1
 
